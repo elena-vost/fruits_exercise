@@ -1,1 +1,1 @@
-
+import Foods from './Foods';
